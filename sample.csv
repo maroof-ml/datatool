@@ -1,0 +1,51 @@
+Order ID,Date,Product Category,Sales (USD),Units Sold,Region
+1001,2025-08-01,Electronics,1249.99,5,North
+1002,2025-08-01,Clothing,349.50,7,South
+1003,2025-08-02,Home Appliances,879.00,3,East
+1004,2025-08-02,Books,120.75,12,West
+1005,2025-08-03,Sports Gear,560.00,4,North
+1006,2025-08-03,Cosmetics,220.40,6,South
+1007,2025-08-04,Electronics,1450.00,6,East
+1008,2025-08-04,Books,95.20,10,West
+1009,2025-08-05,Home Appliances,1020.30,4,North
+1010,2025-08-05,Clothing,300.00,5,South
+1011,2025-08-06,Cosmetics,185.00,4,East
+1012,2025-08-06,Sports Gear,645.00,5,West
+1013,2025-08-07,Electronics,980.00,3,North
+1014,2025-08-07,Clothing,455.90,8,South
+1015,2025-08-08,Home Appliances,1120.00,5,East
+1016,2025-08-08,Books,150.00,14,West
+1017,2025-08-09,Sports Gear,720.00,6,North
+1018,2025-08-09,Cosmetics,240.00,5,South
+1019,2025-08-10,Electronics,1100.00,4,East
+1020,2025-08-10,Clothing,390.50,7,West
+1021,2025-08-11,Home Appliances,940.00,4,North
+1022,2025-08-11,Books,130.25,13,South
+1023,2025-08-12,Cosmetics,210.75,6,East
+1024,2025-08-12,Sports Gear,610.00,4,West
+1025,2025-08-13,Electronics,1380.00,5,North
+1026,2025-08-13,Clothing,420.00,9,South
+1027,2025-08-14,Home Appliances,1010.00,4,East
+1028,2025-08-14,Books,105.00,11,West
+1029,2025-08-15,Sports Gear,675.00,5,North
+1030,2025-08-15,Cosmetics,195.90,4,South
+1031,2025-08-16,Electronics,1255.50,5,East
+1032,2025-08-16,Clothing,375.00,6,West
+1033,2025-08-17,Home Appliances,970.00,3,North
+1034,2025-08-17,Books,160.00,15,South
+1035,2025-08-18,Cosmetics,225.60,5,East
+1036,2025-08-18,Sports Gear,590.00,4,West
+1037,2025-08-19,Electronics,1350.00,6,North
+1038,2025-08-19,Clothing,310.25,5,South
+1039,2025-08-20,Home Appliances,890.00,3,East
+1040,2025-08-20,Books,140.50,13,West
+1041,2025-08-21,Cosmetics,200.00,4,North
+1042,2025-08-21,Sports Gear,660.00,5,South
+1043,2025-08-22,Electronics,1400.00,6,East
+1044,2025-08-22,Clothing,390.00,7,West
+1045,2025-08-22,Home Appliances,995.00,4,North
+1046,2025-08-22,Books,125.00,12,South
+1047,2025-08-22,Cosmetics,215.00,5,East
+1048,2025-08-22,Sports Gear,680.00,6,West
+1049,2025-08-22,Electronics,1220.00,5,North
+1050,2025-08-22,Clothing,355.75,6,South
